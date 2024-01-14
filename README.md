@@ -62,9 +62,20 @@ La Bonne Auberge est un restaurant fictif avec un site web interactif permettant
 
    dotnet watch run   ou    dotnet run
 
+# Accèder à l'admin
+
+Accèder à l'admin en tapant dans l'url : 
+
+![admin](https://github.com/simplon-lille-csharp-dotnet/LaBonneAuberge/assets/150059186/2bd116c7-22d0-4b68-ba33-1e94f9ec278e)
 
 
+Vous accèderez automatiquement à cette url :
 
+ http://localhost:5299/Identity/Account/Login
+
+S'Enregistrer en tant qu'Admin depuis le bouton : 
+
+- Register as a new user
 
 
 
