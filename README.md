@@ -46,6 +46,12 @@ La Bonne Auberge est un restaurant fictif avec un site web interactif permettant
 
 ![matrice](https://github.com/simplon-lille-csharp-dotnet/LaBonneAuberge/assets/150059186/8a004997-396a-4873-be02-3670cf42109f)
 
+# Cas d'utilisation
+<br> 
+
+![cas](https://github.com/simplon-lille-csharp-dotnet/LaBonneAuberge/assets/150059186/783fc485-fdfe-4fa0-8461-270d3d0d0d96)
+
+
 # Technologies Utilisées
 
 - Front-end: HTML, CSS, JavaScript
