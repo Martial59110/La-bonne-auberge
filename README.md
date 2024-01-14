@@ -73,10 +73,11 @@ Vous accèderez automatiquement à cette url :
 
  http://localhost:5299/Identity/Account/Login
 
-S'Enregistrer en tant qu'Admin depuis le bouton : 
+S'Enregistrer en tant qu'Admin depuis le bouton (6 caractères minimum, 1 majuscule, 1 chiffre, et un caractère spécial demandé pour le mot de passe) : 
 
 - Register as a new user
 
+Une fois l'inscription terminé, accéder de nouveau au formulaire puis se connecter avec le mail et le mot de passe choisi.
 
 
 
