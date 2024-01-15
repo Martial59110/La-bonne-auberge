@@ -54,8 +54,8 @@ La Bonne Auberge est un restaurant fictif avec un site web interactif permettant
 
 # Technologies Utilisées
 
-- Front-end: HTML, CSS, JavaScript
-- Back-end: C#
+- Front-end: HTML, CSS, JavaScript, Bootstrap 
+- Back-end: C#, ASP net
 - Base de données: SQLITE
 
 # Installation et lancement
