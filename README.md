@@ -31,6 +31,11 @@ La Bonne Auberge est un restaurant fictif avec un site web interactif permettant
 ![Bevan](https://github.com/simplon-lille-csharp-dotnet/LaBonneAuberge/assets/150059186/9f0b9029-2a6e-45a4-ade8-9dd8b74f705a)
 ![rye](https://github.com/simplon-lille-csharp-dotnet/LaBonneAuberge/assets/150059186/5d50e67f-42fc-43b2-add1-13f71c750058)
 
+## Logo
+
+![Logo_noir](https://github.com/simplon-lille-csharp-dotnet/LaBonneAuberge/assets/150059186/14f1f55c-81de-4ae9-b087-ccdededcaef4)
+![Logo_blanc](https://github.com/simplon-lille-csharp-dotnet/LaBonneAuberge/assets/150059186/add8a64b-1f57-4a29-8549-e166d41b31fc)
+
 
 # MERISE
  <br>
